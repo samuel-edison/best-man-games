@@ -1,0 +1,87 @@
+site_name: Best Man Games
+site_description: Rules, game pool, and yearly lineups for the annual Best Man Games.
+docs_dir: docs
+use_directory_urls: true
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - General Rules:
+      - rules/index.md
+      - Scoring & Teams: rules/scoring.md
+      - Bonus Chugs & Beer Duels: rules/bonus-chugs.md
+      - Power Plays: rules/power-plays.md
+      - Tie Breaker & Last Place: rules/tiebreaker-last-place.md
+  - Game Pool:
+      - games/index.md
+      - Individual (Solo):
+          - Saturday Morning Cartoons: games/individual/saturday-morning-cartoons.md
+          - Obstacle Course: games/individual/obstacle-course.md
+          - ChatGPT Spelling Bee: games/individual/chatgpt-spelling-bee.md
+          - Beer Pong Knockout: games/individual/beer-pong-knockout.md
+          - Chandelier Knockout: games/individual/chandelier-knockout.md
+          - Stein Hold: games/individual/stein-hold.md
+          - Chug Norris: games/individual/chug-norris.md
+          - Rap Battle: games/individual/rap-battle.md
+          - Highland Dance-Off: games/individual/highland-dance-off.md
+          - Resistance: games/individual/resistance.md
+      - 2-Player Teams:
+          - Blind Beer: games/two-player/blind-beer.md
+          - Egg Toss: games/two-player/egg-toss.md
+          - Spikeball: games/two-player/spikeball.md
+          - Kan Jam: games/two-player/kan-jam.md
+          - Halo Ball: games/two-player/halo-ball.md
+          - Beer Ball: games/two-player/beer-ball.md
+          - Beer Pong: games/two-player/beer-pong.md
+      - 5-Player Teams:
+          - Kickball: games/five-player/kickball.md
+          - Dodgeball: games/five-player/dodgeball.md
+          - Capture the Flag: games/five-player/capture-the-flag.md
+          - Ultimate Frisbee: games/five-player/ultimate-frisbee.md
+          - Flag Football: games/five-player/flag-football.md
+          - Tug of War: games/five-player/tug-of-war.md
+          - Kilted Relay Race: games/five-player/kilted-relay-race.md
+          - Beerball-Baseball: games/five-player/beerball-baseball.md
+          - Table Baseball: games/five-player/table-baseball.md
+          - Hanabi: games/five-player/hanabi.md
+  - By Year:
+      - years/index.md
+      - "2026": years/2026.md
+      - "2025": years/2025.md
+      - "2024": years/2024.md
