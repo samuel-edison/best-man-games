@@ -111,7 +111,6 @@ Running a string line between stakes makes long chalk lines much straighter.
 | [Ultimate Frisbee](ultimate-frisbee.md) | Whole field. Catch it in the end zone to score. |
 | [Flag Football](flag-football.md) | Whole field. Start at your own goal line (the 5-yard line), first down at midfield (the 25-yard line), score in the end zone. |
 | [Handball](handball.md) | Whole field. End zones are the goal areas, goals on the end lines, penalty dots, throw-off from the center dot. |
-| [Capture the Flag](capture-the-flag.md) | Midfield splits the two territories. Teams place their own flags and safe zones with cones. |
 | [Kickball](kickball.md) | One corner of the field. See [Kickball](#kickball) below. |
 | [Dodgeball](dodgeball.md) | Cone box over midfield. See [Midfield games](#midfield-games) below. |
 | [Tug of War](tug-of-war.md) | Rope centered on midfield. See [Midfield games](#midfield-games) below. |
@@ -187,12 +186,12 @@ Kicks go toward 2nd base, so deep kicks leave the chalked field over the far sid
 
 ## Midfield games
 
-Dodgeball and Tug of War both center on the midfield line. Capture the Flag uses the two halves.
+Dodgeball and Tug of War both center on the midfield line.
 
 <figure class="bmg-field" markdown="0">
 <svg viewBox="0 0 800 450" role="img" aria-labelledby="f3t f3d" xmlns="http://www.w3.org/2000/svg">
   <title id="f3t">Midfield games on the shared field</title>
-  <desc id="f3d">A coned dodgeball box 50 feet long and 25 feet wide centered on midfield, with neutral cones 5 feet each side of midfield. A tug of war rope crossing midfield near one sideline, with cones 10 feet each side. Capture the flag territories are the two halves.</desc>
+  <desc id="f3d">A coned dodgeball box 50 feet long and 25 feet wide centered on midfield, with neutral cones 5 feet each side of midfield. A tug of war rope crossing midfield near one sideline, with cones 10 feet each side.</desc>
   <rect x="0" y="0" width="800" height="450" rx="10" fill="#3d7136"/>
   <g stroke="#ffffff" stroke-width="3" fill="none" opacity="0.3">
     <rect x="90" y="70" width="600" height="300"/>
@@ -221,14 +220,10 @@ Dodgeball and Tug of War both center on the midfield line. Capture the Flag uses
     <polygon points="430,334 423,348 437,348"/>
   </g>
   <g fill="#ffffff" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
-    <text x="240" y="110">TEAM 1 TERRITORY</text>
-    <text x="540" y="110">TEAM 2 TERRITORY</text>
     <text x="390" y="155">Dodgeball</text>
     <text x="390" y="318">Tug of War</text>
   </g>
   <g fill="#ffffff" font-family="Roboto, Arial, sans-serif" font-size="14" text-anchor="middle">
-    <text x="240" y="130">(Capture the Flag)</text>
-    <text x="540" y="130">(Capture the Flag)</text>
     <text x="390" y="58">Midfield (reused)</text>
     <text x="390" y="215" font-size="13">Neutral</text>
     <text x="390" y="232" font-size="13">10 ft</text>
@@ -245,4 +240,3 @@ Dodgeball and Tug of War both center on the midfield line. Capture the Flag uses
 | --- | --- |
 | Dodgeball | Cone a box **50 ft long by 25 ft wide**, centered on midfield. Put cones **5 ft each side of midfield** to mark the neutral zone (10 ft total). |
 | Tug of War | Lay the rope across midfield so its center sits on the line. Put a cone **5 or 10 ft each side** of midfield. |
-| Capture the Flag | Midfield divides the territories. Each team hides their flag and cones their safe zone (6 ft by 6 ft) in their own half. |

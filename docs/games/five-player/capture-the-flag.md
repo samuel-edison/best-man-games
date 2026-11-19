@@ -12,8 +12,6 @@
 
 ## Setup
 
-See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
-
 - Each team has a territory, split by cone markers.
 - Each team gets 5 minutes to choose where to hide their flag and where to place their **safe zone**. These are two different spots.
 - The safe zone is where you respawn after losing a life. Opponents cannot tag you there, so you can catch your breath and plan your next move.
