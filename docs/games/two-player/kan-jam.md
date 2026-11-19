@@ -19,12 +19,11 @@ Runs well side by side with [Spikeball](spikeball.md) using the same teams. Offi
 
 - Partners stand at opposite Kans (like cornhole).
 - Rock, paper, scissors (on shoot) for who goes first.
-- Teams alternate turns: one player throws, the partner deflects to help guide the throw.
-- Teams must complete the same number of turns, unless an instant win happens. Throwing last is an advantage.
-- An **exact score of 21** wins.
-- Going over 21 resets the team's score to its previous total.
-- **Overtime:** if both teams hit 21 in the same number of turns, each team gets one overtime round and high score wins. Repeat if still tied.
-- Tied records go to the head-to-head result.
+- Teams alternate turns. One player throws, and their partner at the Kan deflects the disc toward it.
+- Both teams always get the same number of turns, so the team going second gets a chance to answer. The only exception is an instant win.
+- Score **exactly 21** to win. Going over drops your score back to what it was before that throw.
+- **Overtime:** if both teams reach 21 on the same turn, each team gets one more round. High score wins. Repeat if still tied.
+- **Tied records:** decided by the head-to-head game.
 
 ## Scoring
 

@@ -10,16 +10,18 @@
 
 ## Setup
 
-- One larger cup in the middle (can be a stack of a few solo cups).
-- 10 individual cups surrounding the middle cup, one per player.
+- One big cup in the middle (a stack of a few solo cups works).
+- 10 cups around it, one per player, each with beer.
 
 ## Rules
 
-- 10th place starts, then go in descending order.
-- Each player shoots once on their turn, with a bounce.
-    - **Make the big cup:** everyone drinks their cup and flips it (like flip cup). The last person to finish is out.
-    - **Make someone else's cup:** that player must drink and refill their cup.
-- You cannot interfere with other players by hitting them or their cup. Doing so is automatic disqualification.
+- **Shooting order:** by current standings, starting from the bottom. 10th place shoots first, then 9th, 8th, and so on.
+- On your turn, shoot once. The ball must bounce off the table.
+    - **Big cup:** everyone drinks their cup and flips it (like flip cup). The last player to finish is out.
+    - **Someone else's cup:** that player drinks and refills their cup.
+    - **Miss:** nothing happens. Next player shoots.
+- Keep going around until one player is left. Players are ranked in reverse order of elimination.
+- Hitting another player or their cup on purpose is an automatic disqualification.
 
 ## Supplies
 

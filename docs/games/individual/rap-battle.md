@@ -11,7 +11,7 @@ The nicest rap battle there is.
 
 ## Rules
 
-- All rappers get 3 minutes to prepare, all at the same time.
+- Everyone gets the same 3 minutes to prepare, all at once.
 - The rap must be about your opponent.
 - The rap must **only say nice things** about your opponent.
 
@@ -29,9 +29,9 @@ The nicest rap battle there is.
 - **Matchups:** hat draw. Every name is drawn before any raps start.
 - Rock, paper, scissors (on shoot, best of 1) for who goes first.
 - **Points:** each matchup winner gets 2 points · IDP Max: 4
-- **Bonus:** 2 points for the agreed-upon best rap of the group.
+- **Bonus:** 2 points for the best rap of the night, as agreed by the group.
 - You are disqualified if you:
-    - Don't have a rebuttal within a few seconds and get booed
+    - Can't start your rebuttal within a few seconds and the group boos
     - Curse
     - Slur your opponent
 

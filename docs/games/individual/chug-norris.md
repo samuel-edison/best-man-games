@@ -11,13 +11,13 @@
 
 ## Rules
 
-- Players chug their drink head-to-head.
+- Both players in a matchup chug at the same time. First to finish wins.
 - Prove you finished by turning the can or cup upside down over your head.
-- There should be minimal, slow drip at most. Anything more is immediate disqualification and a loss.
+- A slow drip is fine. Anything more is a disqualification and a loss.
 
 ## Bonus
 
-- 2 points for the fastest overall chug.
+- 2 points for the fastest chug of the night.
 
 ## Supplies
 

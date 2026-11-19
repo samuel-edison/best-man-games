@@ -11,10 +11,10 @@
 
 ## Rules
 
-- Each team lines up 20 feet apart from their teammate with one egg.
-- All teams throw at the same time, and keep going until their egg breaks.
-- The team whose egg lasts longest wins.
-- Tie breaker is a 2-drink-per-team chug off.
+- Teammates stand 20 feet apart. Each team has one egg.
+- All teams toss at the same time and keep tossing back and forth until their egg breaks.
+- Teams are ranked by how long their egg survives. Last egg standing wins.
+- **Ties:** a chug-off with 2 drinks per team. Fastest team wins.
 
 ## Supplies
 

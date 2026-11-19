@@ -11,20 +11,19 @@
 
 ## Setup
 
-- Set a cooler up as the "base."
+- Set up a cooler as the mound.
 - Put the pitcher's cone 15 feet from the cooler.
 
 ## Rules
 
-- Each team has 5 beers. The first team to finish their beers wins.
-- When the ball is hit, the batting team chugs until the fielding team gets the ball to the cooler.
-    - The cooler can be hit with a throw or touched with the ball.
-- The bottom player's team bats first.
-- Pitching is underhand. You are not trying to strike anyone out.
-- 2 misses is a strikeout.
-- 3 outs to switch sides.
+- Each team has 5 beers. First team to finish all 5 wins.
+- The team with the lowest-ranked captain bats first.
+- **Pitching:** underhand and hittable. You're not trying to strike anyone out.
+- **Hit:** the batting team chugs until the fielding team hits the cooler with the ball, by throwing it or touching it.
+- **Strikeout:** 2 missed swings.
+- **Switching sides:** after 3 outs.
 - If you finish all your beers, you can keep going until your 3 outs (only finished beers count).
-- The second team gets a rebuttal if the first team finishes first.
+- **Rebuttal:** if the team that batted first finishes first, the other team gets one more turn at bat to catch up.
 
 ## Supplies
 

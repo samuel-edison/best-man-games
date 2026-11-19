@@ -11,7 +11,7 @@
 ## Rules
 
 - Follow the rules of the Resistance board game for 10 players.
-- Each mission your side wins is worth 2 points to each player on that side.
+- Every player on the side that wins a mission gets 2 points.
 
 ## Supplies
 

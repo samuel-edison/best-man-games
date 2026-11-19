@@ -13,14 +13,13 @@
 
 See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
 
-- Lay the battle rope in a straight line.
-- Place a cone 5 or 10 feet from the middle on each side.
+- Lay the battle rope straight, with its center on the midfield line.
+- Put a cone the same distance on each side of the center: 5 or 10 feet. Pick one before the first round.
 
 ## Rules
 
-- Teams take turns starting each round with the call: "3, 2, 1, TUG!"
-- Captain 1's team makes the first call.
-- The round ends once the front player on either side is pulled to the opposing team's cone.
+- Each round starts with the call "3, 2, 1, TUG!" Teams take turns making the call, starting with Captain 1's team.
+- A round ends when either team's front player is pulled to the cone on the other team's side.
 
 ## Supplies
 

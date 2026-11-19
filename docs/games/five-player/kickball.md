@@ -21,13 +21,11 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 
 ## Rules
 
-- Standard kickball rules. Catch the ball or hit the runner with it for an out.
-- 5 innings.
-- Outs:
-    - 2 strikes (missed kicks) is a strikeout.
-    - 3 fouls is an out, as is 1 strike and 2 fouls.
-- Bunts must reach the 20-foot line or they count as a foul.
-- Mercy rule: max 5 runs per team per inning, except the last inning.
+- Standard kickball rules, 5 innings.
+- **Fielding outs:** catch a kicked ball in the air, or hit a runner with the ball while they're off base.
+- **Kicking outs:** you're out after 2 strikes (missed kicks), 3 fouls, or 1 strike and 2 fouls.
+- **Bunts:** must pass the 20-foot bunt line or it's a foul.
+- **Mercy rule:** an inning ends once the batting team scores 5 runs. No limit in the last inning.
 
 ## Bonus
 

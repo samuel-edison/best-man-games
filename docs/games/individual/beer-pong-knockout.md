@@ -10,16 +10,21 @@
 
 Basketball "knockout," played with ping pong balls and cups.
 
+## Setup
+
+- 3 cups on the table.
+- One ball per player.
+
 ## Rules
 
-- 1st place starts, then go in ascending rank order.
-- Each player has a ball.
-- Shoot at any of the 3 cups on the table.
-- If you miss, you must bounce the ball off the table and in.
-- The next player cannot shoot until your ball hits a cup, the table, or the ground.
-- After each game, the shooting order is updated based on that game's results.
-- Best average ranking across the 3 games wins.
-- Tie breaker is a single-shot duel.
+- **Shooting order, game 1:** by current standings. 1st place shoots first, then 2nd, 3rd, and so on.
+- **Shooting order, games 2 and 3:** the finishing order of the previous game, winner first.
+- Shoot at any of the 3 cups.
+- If you miss, grab your ball. Every follow-up shot must bounce off the table into a cup.
+- The next player can't shoot until your first shot lands (in a cup, on the table, or on the ground).
+- If the player behind you makes a cup before you do, you're out. Last player left wins the game.
+- **Final standings:** best (lowest) average finish across the 3 games.
+- **Ties:** a single-shot duel.
 
 ## Supplies
 

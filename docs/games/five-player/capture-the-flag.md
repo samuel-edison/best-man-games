@@ -12,28 +12,30 @@
 
 ## Setup
 
-- Each team has a territory, split by cone markers.
-- Each team gets 5 minutes to choose where to hide their flag and where to place their **safe zone**. These are two different spots.
-- The safe zone is where you respawn after losing a life. Opponents cannot tag you there, so you can catch your breath and plan your next move.
-- To size the safe zone, have the player closest to 6 feet tall lie down in the grass. Put a cone at their head and feet, then rotate them 90 degrees and do it again.
+- Split the area into two territories with cones.
+- Each team gets 5 minutes to pick two separate spots in their territory: where to hide their flag, and where to put their **safe zone**.
+- **Safe zone:** where you go after losing a life. Nobody can tag you inside it.
+- **Sizing the safe zone:** have the player closest to 6 feet tall lie in the grass. Cone their head and feet, rotate them 90 degrees, and cone again. That gives a square about 6 feet across.
 
 ## Rules
 
-- Each player starts with **two wristbands on their right wrist**. These are your lives. Lose both and you are out of the game.
-- Tag an opponent by pulling their flag-football flag or hitting them with one of your team's colored balls. A tagged player goes back to their safe zone.
-- When tagged, immediately give one wristband to the player who tagged you. **No stalling.** The tagger puts it on their left wrist.
-- If you are tagged while carrying the capture flag, you must stick it in the ground right side up, right there.
-- You cannot tag anyone while carrying the flag. You can stick the flag in the ground to regain tagging ability.
-- After giving up the wristband and planting the flag, walk back to your safe zone holding your own flag-football flag above your head so others know you are respawning.
+- **Lives:** each player starts with **two wristbands on their right wrist**. Lose both and you're out of the game.
+- **Tagging:** pull an opponent's flag-football flag, or hit them with one of your team's colored balls.
+- **When you're tagged:**
+    1. Immediately hand one right-wrist wristband to the player who tagged you. **No stalling.**
+    2. If you're carrying the capture flag, stick it in the ground right side up, right where you were tagged.
+    3. Walk back to your safe zone holding your flag-football flag above your head, so everyone knows you're respawning.
+- **Taggers** wear the wristbands they collect on their left wrist. They count toward the bonus, not as extra lives.
+- **Carrying the flag:** you can't tag anyone while holding it. Stick it in the ground to tag again.
 
 ## How to win
 
-Eliminate the entire opposing team, or capture their flag. Your own flag must be at your home base for a capture to count.
+Eliminate the whole other team, or bring their flag back to your territory. A capture only counts if your own flag is still in its hiding spot.
 
 ## Bonus
 
-- 1 point for each player who keeps all their lives.
-- 2 points for the player who takes the most lives.
+- 1 point for each player who finishes with both lives.
+- 2 points for the player with the most wristbands on their left wrist.
 
 ## Supplies
 

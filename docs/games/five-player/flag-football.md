@@ -19,18 +19,18 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 
 ## Rules
 
-- No kickoffs. The ball starts at the 5-yard line.
-- First down is at the 25-yard line.
-- 3 Mississippis before rushing the QB.
-- Immediate rushing is allowed if the ball changes hands to a different player after the snap.
-- The offense may use as many linemen as they want, but linemen cannot receive or advance the ball.
-    - Linemen must block with their hands behind their back.
-    - Linemen must take off their flag before the play to show they are blocking only.
-- First team to 3 scores wins.
+- **No kickoffs.** Every drive starts at the offense's own 5-yard line.
+- **First down:** the 25-yard line (midfield).
+- **Pass rush:** count 3 Mississippi before rushing the QB. If the QB hands off or pitches to another player, you can rush right away.
+- **Linemen:** the offense can use as many as they want.
+    - Before the snap, a lineman takes off their flag to show they're blocking only.
+    - Linemen block with their hands behind their back.
+    - Linemen can't catch or carry the ball.
+- First team to 3 touchdowns wins.
 
 ## Bonus
 
-- 1 point for MVP (most scores plus interceptions). Must be on the winning team.
+- 1 point for MVP (most touchdowns plus interceptions). Must be on the winning team.
 
 ## Supplies
 

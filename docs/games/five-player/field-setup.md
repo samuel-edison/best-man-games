@@ -114,7 +114,7 @@ Running a string line between stakes makes long chalk lines much straighter.
 | [Kickball](kickball.md) | One corner of the field. See [Kickball](#kickball) below. |
 | [Dodgeball](dodgeball.md) | Cone box over midfield. See [Midfield games](#midfield-games) below. |
 | [Tug of War](tug-of-war.md) | Rope centered on midfield. See [Midfield games](#midfield-games) below. |
-| [Beerball-Baseball](beerball-baseball.md) | No lines. Put the cooler at the kickball home plate corner and the pitcher's cone 15 ft out. |
+| [Beerball-Baseball](beerball-baseball.md) | No lines. Just a cooler and a cone 15 ft apart, anywhere with room. |
 
 ## Kickball
 

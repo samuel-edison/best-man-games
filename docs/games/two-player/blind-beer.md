@@ -12,16 +12,18 @@
 ## Setup
 
 - Mark a 20-foot diameter circle with cones.
-- The team that just went helps with setup and spins. The last team helps the first team.
+- **Helpers:** the team that just went places the cans, spins, and guides the next team. The last team helps the first team.
 
 ## Rules
 
-- Both teammates are blindfolded and their 2 cans are placed inside the circle.
-- Players are spun 5 times, then guided into the boundary.
-- The timer starts once both players are in the boundary.
-- You must stay in bounds. Non-players accurately tell you when to move back in.
-- Blindfolds can come off once all cans are found, or you can chug what you find and keep the blindfold on.
-- The timer stops once all drinks are finished.
+1. Both teammates are blindfolded. The helpers place the team's 2 cans somewhere inside the circle.
+2. Each player is spun 5 times, then guided to the edge of the circle.
+3. The timer starts once both players are inside the circle.
+4. Stay in bounds. Non-players must tell you honestly when you've stepped out and need to move back in.
+5. Find both cans. Then either:
+    - take your blindfolds off once both cans are found, or
+    - chug each can as soon as you find it, blindfold still on.
+6. The timer stops when both cans are finished.
 
 ## Supplies
 

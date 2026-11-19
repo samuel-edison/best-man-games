@@ -16,14 +16,14 @@ Uses the same field as [Flag Football](flag-football.md), so schedule them back 
 
 See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
 
-- Chalk the shared field (see Field Setup).
 - 50 yards long (including end zones), 25 yards wide.
 - 5-yard end zones.
 
 ## Rules
 
-- Standard ultimate rules. Pass the frisbee to move toward the end zone.
+- Standard ultimate rules. Pass the frisbee to move toward the end zone, and catch it in the end zone to score.
 - No running with the frisbee. Pivoting only.
+- A dropped, blocked, intercepted, or out-of-bounds pass is a turnover.
 - There is no stopping in this game.
 - When a team scores, they turn around and start attacking the other end zone.
 - First team to 4 points wins.

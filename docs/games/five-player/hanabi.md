@@ -11,9 +11,9 @@
 
 ## Rules
 
-- Each team plays one round of the Hanabi card game, following the game's rules.
-- The team with the higher Hanabi score wins.
-- A player who gives away too much information on a clue costs their team a point.
+- Each team plays one game of Hanabi, following the game's rules.
+- Higher Hanabi score wins.
+- Giving away more information than a clue allows (a hint in your voice, face, or extra words) takes 1 point off your team's score.
 
 ## Supplies
 

@@ -10,8 +10,8 @@
 ## Rules
 
 - Play bagpipe music.
-- The two dancers take turns performing their best impression of a Highland dance, battle style, until the song is over.
-- The top 8 players vote to determine the victor.
+- The two dancers take turns doing their best Highland dance, battle style, until the song ends.
+- The other 8 players vote. Majority wins.
 
 ## Supplies
 

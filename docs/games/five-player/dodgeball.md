@@ -14,16 +14,17 @@
 
 See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
 
-- Use cones to create the arena.
-- 50 feet long, 25 feet wide.
-- 5-foot neutral zone on each side of the middle.
+- Cone an arena 50 feet long by 25 feet wide.
+- Cone a neutral zone 5 feet on each side of the center line (10 feet total).
 
 ## Rules
 
-- Standard dodgeball rules. Catch the ball or hit a player with it to eliminate them.
-- A catch brings back one teammate.
-- You cannot cross the neutral zone, except to get a ball.
-- You cannot throw or catch from outside the arena.
+- Standard dodgeball rules.
+- **Hit:** a thrown ball hits an opponent before touching the ground. That player is out.
+- **Catch:** catch an opponent's throw and the thrower is out. One of your out teammates also comes back in.
+- **Neutral zone:** you can step in only to grab a ball. Never cross into the other team's side.
+- You can't throw or catch from outside the arena.
+- A round ends when one team has no players left.
 
 ## Supplies
 

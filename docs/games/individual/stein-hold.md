@@ -11,17 +11,17 @@
 
 ## Rules
 
-- Players hold a large glass stein straight out with their **weak hand**.
-- The holding arm may bend only slightly, enough to avoid locking the elbow and getting hurt.
-- You are disqualified when:
-    - Your holding arm falls noticeably below shoulder level
-    - Your non-holding arm moves behind your back for aid
-    - Any water spills from the stein
-- The player who holds the longest wins the matchup.
+- Both players in a matchup hold at the same time. Longest hold wins.
+- Hold a full stein straight out in front of you with your **weak hand**.
+- Keep a slight bend in your elbow. Don't lock it.
+- You're out the moment:
+    - Your holding arm drops noticeably below shoulder level
+    - Your other arm goes behind your back to help
+    - Any water spills
 
 ## Bonus
 
-- 2 points for the longest hold across everyone.
+- 2 points for the longest hold of the night.
 
 ## Supplies
 

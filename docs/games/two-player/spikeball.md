@@ -20,11 +20,10 @@ Runs well side by side with [Kan Jam](kan-jam.md) using the same teams.
 - Play to 13, win by 2.
 - Rock, paper, scissors (on shoot) for first serve.
 - Serves must be underhand.
-- A player cannot hit the ball twice in a row.
-- The ball must go off the net by the team's 3rd hit.
-- After the ball hits the net, the other team must return it.
+- Each team gets up to 3 hits to send the ball back onto the net. No player can hit it twice in a row.
+- Once the ball comes off the net, it's the other team's turn to return it.
 - If the ball hits the net twice on its own, the other team wins the point.
-- Tied records go to the head-to-head result.
+- **Tied records:** decided by the head-to-head game.
 
 ## Supplies
 

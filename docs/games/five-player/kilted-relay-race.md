@@ -14,8 +14,8 @@ A team relay built from [Obstacle Course](../individual/obstacle-course.md) stat
 
 ## Rules
 
-- 5 checkpoints, 1 per player.
-- Both teams start at the same time.
+- 5 checkpoints. Each player takes one, relay style.
+- Both teams start at the same time. First team to finish all 5 wins the round.
 - Each checkpoint is a simple, funny challenge (tossing a small caber, jumping mini obstacles, balancing a small weight).
 
 ## Course

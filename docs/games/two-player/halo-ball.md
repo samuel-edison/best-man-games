@@ -18,13 +18,12 @@ Official references: [setup guide](https://www.haloball.net/pages/set-up) and [r
 
 ## Rules
 
-- No dribbling.
-- You can take up to two steps with the ball. You regain your steps by passing to a teammate or off the tree.
-- Traveling or dribbling is a turnover, and play restarts with a check from the 3-point line.
-- Start from the 3-point line. After each score or foul, check the ball before resuming play.
-- On an airball (the ball hits nothing), the defense can score without a take back.
-- No goaltending: you cannot touch the rim or the slack line, and cannot hit the ball once it is on its way down.
-- Tied records go to the head-to-head result.
+- **No dribbling.** You get up to 2 steps with the ball. Pass to your teammate or off the tree to get your steps back.
+- Traveling or dribbling is a turnover. The other team checks the ball at the 3-point line.
+- **Checks:** start the game, and restart after every score or foul, with a check at the 3-point line.
+- **Airball** (the shot touches nothing): the defense can grab it and shoot right away, without taking it back to the 3-point line.
+- **No goaltending:** don't touch the rim or the slack line, and don't block a shot on its way down.
+- **Tied records:** decided by the head-to-head game.
 
 ## Scoring
 

@@ -11,13 +11,12 @@
 
 ## Setup
 
-- Each team has two beers, one on each corner of their side of the table.
+- Each player sets their beer on their corner of the table, so each team has two cans on its end.
 
 ## Rules
 
-- A player from team X throws across the table to hit team Y's beers.
-- When a can is hit, the **other** player from team X drinks until team Y slams the ball on the table.
-- Turn order is X1, Y1, X2, Y2.
+- Players take turns throwing a ping pong ball across the table at the other team's cans. Order: X1, Y1, X2, Y2.
+- **Hit a can:** the thrower's partner drinks until the other team grabs the ball and slams it on the table.
 - First team to finish their beers wins.
 - If you knock your own can over, start a new beer.
 
