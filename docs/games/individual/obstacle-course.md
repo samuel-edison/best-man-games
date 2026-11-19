@@ -8,6 +8,9 @@
 | **Drinking** | Light (missed beer pong cups) |
 | **Played** | 2024, 2025 |
 
+!!! note "Example course"
+    Each year, someone is assigned to design and build the course. The obstacles below are an example of how it might work, based on past years. The rules for running it (checkpoints, mess-ups, the bonus) apply to whatever course gets built.
+
 ## Rules
 
 - **Running order:** by current standings. 1st place runs first, then 2nd, 3rd, and so on.
@@ -16,9 +19,9 @@
 - **Mess up an obstacle:** go back to the last checkpoint and run the course again from there. The clock keeps running.
 - The players not running stand at the obstacles to reset them and call mess-ups.
 
-## Course
+## Example course
 
-Start by the kickball area, near the disc golf hole 1 tree.
+The course builder decides the actual obstacles and checkpoints. This one starts by the kickball area, near the disc golf hole 1 tree.
 
 1. **Dizzy Bat:** spin 5 times with your head down on the bat, then hit an underhand pitch. Up to 5 pitches. No hit is a mess-up.
 2. **Knife Throw:** stick a knife in the hole 1 tree or hit the beer can target. Up to 5 knives (or as many as we have). None stick is a mess-up.
