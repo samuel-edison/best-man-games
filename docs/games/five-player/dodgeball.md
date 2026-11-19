@@ -12,6 +12,8 @@
 
 ## Setup
 
+See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
+
 - Use cones to create the arena.
 - 50 feet long, 25 feet wide.
 - 5-foot neutral zone on each side of the middle.

@@ -11,9 +11,11 @@
 
 ## Setup
 
+See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
+
 - Same field as [Ultimate Frisbee](ultimate-frisbee.md): 50 yards long including 5-yard end zones, 25 yards wide.
-- Add a cone for the first down line at the 25-yard line.
-- Add a cone at the 5-yard line on each side for the starting spot.
+- First down line is the 25-yard line, which is **midfield** (yards are counted from the end line).
+- The starting spot is the 5-yard line, which is each team's **own goal line**.
 
 ## Rules
 

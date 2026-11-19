@@ -14,7 +14,9 @@ Uses the same field as [Flag Football](flag-football.md), so schedule them back 
 
 ## Setup
 
-- Use cones to create the field.
+See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
+
+- Chalk the shared field (see Field Setup).
 - 50 yards long (including end zones), 25 yards wide.
 - 5-yard end zones.
 

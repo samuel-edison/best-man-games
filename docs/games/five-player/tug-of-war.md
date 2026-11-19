@@ -11,6 +11,8 @@
 
 ## Setup
 
+See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
+
 - Lay the battle rope in a straight line.
 - Place a cone 5 or 10 feet from the middle on each side.
 

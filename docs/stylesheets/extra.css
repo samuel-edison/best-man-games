@@ -82,3 +82,26 @@
 .md-typeset .grid.cards > ul > li {
   border-top: 4px solid var(--bmg-barn);
 }
+
+/* Field setup diagrams */
+.md-typeset figure.bmg-field {
+  margin: 1.5em 0;
+  width: 100%;
+  max-width: 100%;
+}
+.md-typeset figure.bmg-field svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.md-typeset figure.bmg-field figcaption {
+  font-size: 0.75rem;
+  max-width: none;
+}
+/* Grass-colored halo so labels stay readable where they cross lines */
+.md-typeset figure.bmg-field svg text {
+  paint-order: stroke;
+  stroke: #3d7136;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}

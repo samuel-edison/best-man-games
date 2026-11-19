@@ -12,7 +12,9 @@
 
 ## Setup
 
-- Use cones to create the field.
+See **[Field Setup](field-setup.md)** for the shared field diagram and measurements.
+
+- Home plate goes on a field corner. The sideline and end line are the foul lines.
 - 60 feet between bases.
 - 42 feet from home to the pitcher's mound.
 - Bunt line 20 feet from home.

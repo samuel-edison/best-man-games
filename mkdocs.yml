@@ -71,6 +71,7 @@ nav:
           - Beer Ball: games/two-player/beer-ball.md
           - Beer Pong: games/two-player/beer-pong.md
       - 5-Player Teams:
+          - Field Setup: games/five-player/field-setup.md
           - Kickball: games/five-player/kickball.md
           - Dodgeball: games/five-player/dodgeball.md
           - Capture the Flag: games/five-player/capture-the-flag.md
@@ -81,6 +82,7 @@ nav:
           - Beerball-Baseball: games/five-player/beerball-baseball.md
           - Table Baseball: games/five-player/table-baseball.md
           - Hanabi: games/five-player/hanabi.md
+          - Handball: games/five-player/handball.md
   - By Year:
       - years/index.md
       - "2026": years/2026.md
