@@ -11,29 +11,29 @@
 ## Rules
 
 - **Running order:** by current standings. 1st place runs first, then 2nd, 3rd, and so on.
-- Fastest time wins. Penalties are added to your time.
-- The players not running stand at the obstacles to reset them and call mistakes.
-- **Out of tries** (Dizzy Bat, Knife Throw, Medicine Ball Roll, Football Throw): take the 5-second penalty and move on.
-- **Mess up on the Balance Beam or the spoon:** take the 5-second penalty and go back to the start of that obstacle.
+- Fastest time wins. There are no time penalties.
+- **Checkpoints:** set when the course is built on setup day.
+- **Mess up an obstacle:** go back to the last checkpoint and run the course again from there. The clock keeps running.
+- The players not running stand at the obstacles to reset them and call mess-ups.
 
 ## Course
 
 Start by the kickball area, near the disc golf hole 1 tree.
 
-1. **Dizzy Bat:** spin 5 times with your head down on the bat, then hit an underhand pitch. Up to 5 pitches. No hit: +5 seconds.
-2. **Knife Throw:** stick a knife in the hole 1 tree or hit the beer can target. Throw up to 5 knives (or as many as we have). Not done: +5 seconds.
-3. **Medicine Ball Roll:** roll it 20 feet toward the camp fire, between two lines of cones 5 feet apart. Ball leaves the lane: +5 seconds.
-4. **Balance Beam:** walk the beam. Step off: +5 seconds, then start the beam over.
-5. **Beer Pong:** 3 cups, 3 balls. Chug and flip every cup you didn't make. No time penalty, but the chugging costs you time.
+1. **Dizzy Bat:** spin 5 times with your head down on the bat, then hit an underhand pitch. Up to 5 pitches. No hit is a mess-up.
+2. **Knife Throw:** stick a knife in the hole 1 tree or hit the beer can target. Up to 5 knives (or as many as we have). None stick is a mess-up.
+3. **Medicine Ball Roll:** roll it 20 feet toward the camp fire, between two lines of cones 5 feet apart. Leaving the lane is a mess-up.
+4. **Balance Beam:** walk the beam. Stepping off is a mess-up.
+5. **Beer Pong:** 3 cups, 3 balls. Chug and flip every cup you didn't make, then move on. Missing here is not a mess-up.
 6. **Balance Beam** again.
 7. **Medicine Ball Roll** again, same rules, rolling toward the bell.
-8. **Football Target Throw:** one overhand throw at the bottle bash target from 15 feet. Miss: +5 seconds.
-9. **Ping Pong Ball on Spoon:** carry it 10 feet. Each drop: +5 seconds, then start the 10 feet over.
+8. **Football Target Throw:** one overhand throw at the bottle bash target from 15 feet. A miss is a mess-up.
+9. **Ping Pong Ball on Spoon:** carry it 10 feet. A drop is a mess-up.
 10. **Bell Ring:** ring the bell to stop the clock.
 
 ## Bonus
 
-- 2 points for completing every obstacle with no penalties. Doesn't apply to the slowest time, so going slow on purpose doesn't pay.
+- 2 points for running the whole course without a mess-up. Doesn't apply to the slowest time, so going slow on purpose doesn't pay.
 
 ## Supplies
 
@@ -46,7 +46,7 @@ Start by the kickball area, near the disc golf hole 1 tree.
 - Spoon
 - Football and bottle bash target
 - Bell
-- Stopwatch, paper and pen (error tally)
+- Stopwatch, paper and pen (mess-up tally for the bonus)
 
 ## Year notes
 
