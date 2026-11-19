@@ -19,6 +19,7 @@ Official references: [setup guide](https://www.haloball.net/pages/set-up) and [r
 ## Rules
 
 - First team to **7 points** wins.
+- **First possession:** shoot for ball from the 3-point line.
 - **No dribbling.** You get up to 2 steps with the ball. Pass to your teammate or off the tree to get your steps back.
 - Traveling or dribbling is a turnover. The other team checks the ball at the 3-point line.
 - **Checks:** start the game, and restart after every score or foul, with a check at the 3-point line.
