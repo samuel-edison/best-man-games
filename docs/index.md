@@ -21,6 +21,7 @@ An annual weekend of competition. Ten players, one day of games, one Best Man.
 ## How it works
 
 - Every game is one of three formats: **Individual (solo)**, **2-player teams** (5 teams of 2), or **5-player teams** (5 v 5).
+- The weekend runs Friday evening to Sunday morning. See the [Weekend Schedule](rules/schedule.md).
 - Each year's lineup is picked from the [Game Pool](games/index.md).
 - Points are tallied across the whole day. Highest total is crowned Best Man. The bottom two face off in the [last place game](rules/tiebreaker-last-place.md).
 

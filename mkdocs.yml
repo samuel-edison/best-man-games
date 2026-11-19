@@ -44,6 +44,7 @@ nav:
   - Home: index.md
   - General Rules:
       - rules/index.md
+      - Weekend Schedule: rules/schedule.md
       - Scoring & Teams: rules/scoring.md
       - Bonus Chugs & Beer Duels: rules/bonus-chugs.md
       - Power Plays: rules/power-plays.md

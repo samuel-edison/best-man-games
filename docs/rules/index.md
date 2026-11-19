@@ -27,12 +27,15 @@ These apply all weekend, every year, unless that [year's page](../years/index.md
 
 ## Game day flow
 
+See the [Weekend Schedule](schedule.md) for the Friday-to-Sunday sequence of events.
+
 - **Game order:** games are ordered by daylight and drinking level, with non-drinking games first. A solo game opens the day to establish initial rankings.
 - **Game setup:** each game has a game maker and two assigned setup players. Failing to help with your assigned setup is a 1-point penalty.
 - **Explanations:** each game is explained before play starts.
 
 ## More
 
+- [Weekend Schedule](schedule.md)
 - [Scoring & Teams](scoring.md)
 - [Bonus Chugs & Beer Duels](bonus-chugs.md)
 - [Power Plays](power-plays.md)
