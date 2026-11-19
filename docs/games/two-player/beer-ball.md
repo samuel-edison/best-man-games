@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 2-player teams (5 teams of 2) |
 | **Rounds** | 2024: each team played twice on a session schedule |
-| **Teams** | Same teams as the game it is paired with |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | 2024: 5 points per player per win |
 | **Drinking** | Yes |
 | **Played** | 2024 (paired with [Spikeball](spikeball.md)) |
@@ -26,7 +26,7 @@
 
 ## 2024 session schedule
 
-Run alongside Spikeball so two matches happen at once. Captains are numbered 1 to 5.
+Run alongside Spikeball so two matches happen at once. Number the 5 captains 1 to 5.
 
 | Session | Spikeball | Beer Ball |
 | --- | --- | --- |

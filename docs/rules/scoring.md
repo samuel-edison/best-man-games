@@ -29,18 +29,35 @@ Each game awards about 45 total points, roughly 4.5 per player. Some games add b
 
 ## Picking teams
 
-- The **lowest-ranked players are captains**, unless the game says otherwise.
-    - 5-player games: bottom 2 players are captains.
-    - 2-player games: bottom 5 players are captains.
-- Captains pick in order from last place up (last place picks first).
-- For back-to-back 2-player games run as a pair, teams stay together for both.
+Teams are picked once, on Friday night, using the **prior year's final rankings**. They stay the same for every game in that format all weekend.
+
+### 5-player teams (5 v 5)
+
+- The **top 2 players** from last year are the captains.
+- The two captains compete for **first pick** (see the [Weekend Schedule](schedule.md)).
+- Players are picked in a **snake draft**:
+
+| Pick | Captain | Players taken |
+| --- | --- | --- |
+| 1 | Winner of the first-pick competition | 1 |
+| 2 | Other captain | 2 |
+| 3 | Winner | 2 |
+| 4 | Other captain | 2 |
+| 5 | Winner | 1 (last player) |
+
+- When a game gives an edge to "the lower-ranked captain" (batting first, making the first call), that means the captain who finished lower last year.
+
+### 2-player teams (5 teams of 2)
+
+- The **top 5 players** from last year are the captains.
+- Each captain picks one partner.
 
 ## Replacements
 
 Rules that use the prior year's final rankings (captains, first pick, Power Plays) need all ten spots filled. If a player from the prior year can't attend, their replacement **takes that player's exact placement**. For example, the replacement for last year's 3rd place player is treated as 3rd place.
 
-!!! note "2026 change"
-    In 2026 teams are picked from the prior year's final rankings, with a duel and snake draft for 5v5 games. See the [2026 page](../years/2026.md#picking-teams-new-this-year).
+!!! note "Before 2026"
+    Through 2025, captains were picked game by game from the running totals: the bottom 2 players for 5v5 games and the bottom 5 for 2-player games, with last place picking first. 2024 later used the top players as captains instead.
 
 ## Awards
 

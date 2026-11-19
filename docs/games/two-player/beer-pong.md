@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 2-player teams (5 teams of 2) |
 | **Rounds** | Round robin: your team plays each other team once (4 games) |
-| **Teams** | Bottom 5 players are captains and each picks a non-captain. Lowest captain picks first. |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | Standard 2-player: 1st 9 per player, 2nd 7, 3rd 5, 4th 2 (by most wins) |
 | **Drinking** | Yes |
 | **Played** | 2024 (Kings of the Table), 2025 (round robin) |

@@ -11,7 +11,7 @@ The usual flow of the weekend. Exact times and the game lineup are on each [year
 - **Pick teams** using the prior year's final rankings:
     - The **top two players** from last year compete to decide who gets **first pick** in the 5v5 snake draft.
     - Run the 5v5 draft and the 2v2 partner picks.
-    - See the [2026 page](../years/2026.md#picking-teams-new-this-year) for how the draft works.
+    - See [Picking teams](scoring.md#picking-teams) for how the draft works.
 - **Movie night** to close out the evening.
 
 ## Saturday: game day

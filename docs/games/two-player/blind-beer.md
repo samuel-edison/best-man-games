@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 2-player teams (5 teams of 2) |
 | **Rounds** | 1 timed run per team |
-| **Teams** | Bottom 5 players are captains. Bottom player picks first. |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | Standard 2-player: 1st 9 per player, 2nd 7, 3rd 5, 4th 2 (by fastest time) |
 | **Drinking** | Yes |
 | **Played** | 2024, 2025 |

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 2-player teams (5 teams of 2) |
 | **Rounds** | 1 |
-| **Teams** | Same teams as the game it is paired with |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | 2024: 1st 6, 2nd 4, 3rd 3, 4th 1, 5th 0 · IDP Max: 6 |
 | **Drinking** | No (tie breaker only) |
 | **Played** | 2024 (paired with [Blind Beer](blind-beer.md)) |

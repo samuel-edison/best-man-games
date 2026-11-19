@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 5-player teams (5 v 5) |
 | **Rounds** | 5 innings |
-| **Teams** | Bottom 2 players are captains. Bottom player picks first. |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | Standard 5v5: 9 per winner |
 | **Drinking** | Yes |
 | **Played** | 2024 (listed as "Baseball") |

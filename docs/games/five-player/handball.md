@@ -4,7 +4,7 @@
 | --- | --- |
 | **Format** | 5-player teams (5 v 5): 4 court players + 1 goalkeeper per team |
 | **Rounds** | 1 game, two 10-minute halves |
-| **Teams** | Bottom 2 players are captains. Bottom player picks first. |
+| **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | Standard 5v5: 9 per winner · IDP Max: 10 (with bonus) |
 | **Time** | About 30 minutes |
 | **Drinking** | No |
