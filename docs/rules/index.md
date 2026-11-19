@@ -32,6 +32,7 @@ See the [Weekend Schedule](schedule.md) for the Friday-to-Sunday sequence of eve
 - **Game order:** games are ordered by daylight and drinking level, with non-drinking games first. A solo game opens the day to establish initial rankings.
 - **Game setup:** each game has a game maker and two assigned setup players. Failing to help with your assigned setup is a 1-point penalty.
 - **Explanations:** each game is explained before play starts.
+- **Call your own fouls:** in contact games (football, handball and the like), there are no refs. You are responsible for calling your own fouls.
 
 ## More
 

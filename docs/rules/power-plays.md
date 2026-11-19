@@ -1,6 +1,8 @@
 # Power Plays
 
-Each player receives **one** Power Play. It can only be used one time.
+Only the **bottom 5 players from the prior year's final rankings** receive a Power Play. Each gets **one**, and it can only be used one time.
+
+If one of those players can't attend, their replacement takes their place in the rankings and gets the Power Play (see [replacements](scoring.md#replacements)).
 
 | # | Power Play | What it does | Limits |
 | --- | --- | --- | --- |
@@ -15,4 +17,4 @@ Each player receives **one** Power Play. It can only be used one time.
 | 9 | **Power Point** | In a point-based game, declare the next scoring opportunity to receive 1 additional point | Not for 5v5 games. Only awarded on a successful score. |
 | 10 | **Hold My Beer** | Force a player to play beer-in-hand until they finish it | The game stops to get the beer. Drinking cannot start until the game resumes. |
 
-Introduced in 2025.
+Introduced in 2025, when every player got one. From 2026 on, only the prior year's bottom 5 get one.

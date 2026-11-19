@@ -35,6 +35,10 @@ Each game awards about 45 total points, roughly 4.5 per player. Some games add b
 - Captains pick in order from last place up (last place picks first).
 - For back-to-back 2-player games run as a pair, teams stay together for both.
 
+## Replacements
+
+Rules that use the prior year's final rankings (captains, first pick, Power Plays) need all ten spots filled. If a player from the prior year can't attend, their replacement **takes that player's exact placement**. For example, the replacement for last year's 3rd place player is treated as 3rd place.
+
 !!! note "2026 change"
     In 2026 teams are picked from the prior year's final rankings, with a duel and snake draft for 5v5 games. See the [2026 page](../years/2026.md#picking-teams-new-this-year).
 
