@@ -3,9 +3,9 @@
 | | |
 | --- | --- |
 | **Format** | 5-player teams (5 v 5) |
-| **Rounds** | 2 (2024 used different teams each round) |
+| **Rounds** | Best of 3 games |
 | **Teams** | Bottom 2 players are captains. Bottom player picks first. |
-| **Points** | Standard 5v5: 9 per winner, plus bonuses |
+| **Points** | Standard 5v5: 9 per player on the team that wins the best of 3, plus bonuses |
 | **Time** | About 1 hour |
 | **Drinking** | No |
 | **Played** | 2024 |
@@ -20,7 +20,7 @@
 ## Rules
 
 - **Lives:** each player starts with **two wristbands on their right wrist**. Lose both and you're out of the game.
-- **Tagging:** pull an opponent's flag-football flag, or hit them with one of your team's colored balls.
+- **Tagging:** pull an opponent's flag-football flag, or hit them with one of your team's colored balls. Players can be tagged anywhere, including their own territory, except inside a safe zone.
 - **When you're tagged:**
     1. Immediately hand one right-wrist wristband to the player who tagged you. **No stalling.**
     2. If you're carrying the capture flag, stick it in the ground right side up, right where you were tagged.
@@ -48,4 +48,4 @@ Eliminate the whole other team, or bring their flag back to your territory. A ca
 
 ## Year notes
 
-- **2024:** 2 points per winner per round (IDP Max 10), with preset teams that changed between rounds.
+- **2024:** 2 rounds with preset teams that changed between rounds, 2 points per winner per round (IDP Max 10).

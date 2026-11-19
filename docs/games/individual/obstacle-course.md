@@ -19,8 +19,8 @@
 
 Start by the kickball area, near the disc golf hole 1 tree.
 
-1. **Dizzy Bat:** spin 5 times with your head down on the bat, then hit an underhand pitch. No hit: +5 seconds.
-2. **Knife Throw:** stick a knife in the hole 1 tree or hit the beer can target. Not done: +5 seconds.
+1. **Dizzy Bat:** spin 5 times with your head down on the bat, then hit an underhand pitch. Up to 5 pitches. No hit: +5 seconds.
+2. **Knife Throw:** stick a knife in the hole 1 tree or hit the beer can target. Throw up to 5 knives (or as many as we have). Not done: +5 seconds.
 3. **Medicine Ball Roll:** roll it 20 feet toward the camp fire, between two lines of cones 5 feet apart. Ball leaves the lane: +5 seconds.
 4. **Balance Beam:** walk the beam. Step off: +5 seconds.
 5. **Beer Pong:** 3 cups, 3 balls. Chug and flip every cup you didn't make. No time penalty, but the chugging costs you time.

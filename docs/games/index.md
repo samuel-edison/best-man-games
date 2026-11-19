@@ -11,7 +11,7 @@ Points on each game page are the [standard point system](../rules/scoring.md) un
 | [Saturday Morning Cartoons](individual/saturday-morning-cartoons.md) | No | 2025 |
 | [Obstacle Course](individual/obstacle-course.md) | Light | 2024, 2025 |
 | [ChatGPT Spelling Bee](individual/chatgpt-spelling-bee.md) | No | 2025 |
-| [Beer Pong Knockout](individual/beer-pong-knockout.md) | Yes | 2025 |
+| [Beer Pong Knockout](individual/beer-pong-knockout.md) | No | 2025 |
 | [Chandelier Knockout](individual/chandelier-knockout.md) | Yes | 2025 |
 | [Stein Hold](individual/stein-hold.md) | No | 2024 |
 | [Chug Norris](individual/chug-norris.md) | Yes | 2024 |

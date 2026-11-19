@@ -29,7 +29,7 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 
 ## Bonus
 
-- 1 point for a double play, max one per player per game.
+- 1 point to any player who makes a double play, max one per player per game. More than one player can earn it.
 - 1 point for a home run, max one per player per game.
 
 ## Supplies

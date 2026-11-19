@@ -24,8 +24,7 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 - Standard ultimate rules. Pass the frisbee to move toward the end zone, and catch it in the end zone to score.
 - No running with the frisbee. Pivoting only.
 - A dropped, blocked, intercepted, or out-of-bounds pass is a turnover.
-- There is no stopping in this game.
-- When a team scores, they turn around and start attacking the other end zone.
+- **Make it, take it:** after a score, the scoring team keeps the disc and goes straight at the other end zone. Play doesn't stop.
 - First team to 4 points wins.
 
 ## Bonus

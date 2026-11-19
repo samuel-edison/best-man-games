@@ -19,6 +19,7 @@
 - On your turn, shoot once. The ball must bounce off the table.
     - **Big cup:** everyone drinks their cup and flips it (like flip cup). The last player to finish is out.
     - **Someone else's cup:** that player drinks and refills their cup.
+    - **Your own cup:** drink it and refill it. Then the next player shoots.
     - **Miss:** nothing happens. Next player shoots.
 - Keep going around until one player is left. Players are ranked in reverse order of elimination.
 - Hitting another player or their cup on purpose is an automatic disqualification.

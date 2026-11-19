@@ -30,6 +30,7 @@
 - **Heating up / on fire:** after your 2nd make in a row, you must call "heating up." If you then make a 3rd in a row, you're on fire and keep shooting until you miss.
 - **Redemption:** when a team sinks the last cup, the other team gets redemption. Each player shoots until they miss.
     - No redemption if the last cup was sunk on a balls-back turn. That's game over.
+    - **Overtime:** if redemption sinks every remaining cup, each team sets up 3 cups. The team that cleared its cups first (not the redemption team) shoots first.
 - **Party shot:** if the ball doesn't hit the ground.
 
 ## Supplies

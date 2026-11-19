@@ -20,7 +20,7 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 ## Rules
 
 - **No kickoffs.** Every drive starts at the offense's own 5-yard line.
-- **First down:** the 25-yard line (midfield).
+- **Downs:** you get 4 downs to reach the first down line at midfield (the 25-yard line), then 4 more to score.
 - **Pass rush:** count 3 Mississippi before rushing the QB. If the QB hands off or pitches to another player, you can rush right away.
 - **Linemen:** the offense can use as many as they want.
     - Before the snap, a lineman takes off their flag to show they're blocking only.

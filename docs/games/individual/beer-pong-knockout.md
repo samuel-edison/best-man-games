@@ -5,7 +5,7 @@
 | **Format** | Individual |
 | **Rounds** | 3 games |
 | **Points** | Standard solo: 1st 9, 2nd 8 … 9th 1, 10th 0 · IDP Max: 9 |
-| **Drinking** | Yes |
+| **Drinking** | No |
 | **Played** | 2025 |
 
 Basketball "knockout," played with ping pong balls and cups.
@@ -28,4 +28,4 @@ Basketball "knockout," played with ping pong balls and cups.
 
 ## Supplies
 
-- Solo cups, beer, ping pong balls, table
+- Solo cups, ping pong balls, table

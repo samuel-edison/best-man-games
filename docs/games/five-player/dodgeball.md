@@ -3,9 +3,9 @@
 | | |
 | --- | --- |
 | **Format** | 5-player teams (5 v 5) |
-| **Rounds** | 2 (2024 used different teams each round) |
+| **Rounds** | Best of 3 games |
 | **Teams** | Bottom 2 players are captains. Bottom player picks first. |
-| **Points** | Standard 5v5: 9 per winner |
+| **Points** | Standard 5v5: 9 per player on the team that wins the best of 3 |
 | **Time** | About 30 minutes |
 | **Drinking** | No |
 | **Played** | 2024 |
@@ -24,7 +24,7 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 - **Catch:** catch an opponent's throw and the thrower is out. One of your out teammates also comes back in.
 - **Neutral zone:** you can step in only to grab a ball. Never cross into the other team's side.
 - You can't throw or catch from outside the arena.
-- A round ends when one team has no players left.
+- A game ends when one team has no players left.
 
 ## Supplies
 
@@ -32,4 +32,4 @@ See **[Field Setup](field-setup.md)** for the shared field diagram and measureme
 
 ## Year notes
 
-- **2024:** 2 points per winner per round, with preset teams that changed between rounds (IDP Max 6).
+- **2024:** 2 rounds with preset teams that changed between rounds, 2 points per winner per round (IDP Max 6).
