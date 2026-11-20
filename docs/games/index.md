@@ -1,6 +1,6 @@
 # Game Pool
 
-Every game we have rules for. Pick each year's lineup from here (max five per format).
+Every game we have rules for. Pick each year's lineup from here.
 
 Points on each game page are the [standard point system](../rules/scoring.md) unless noted. What was actually played and scored each year is under [By Year](../years/index.md).
 
