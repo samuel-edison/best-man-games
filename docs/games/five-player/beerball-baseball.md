@@ -19,7 +19,7 @@
 - Only the batting team drinks. The fielding team doesn't.
 - The lower-ranked captain's team bats first.
 - **Pitching:** underhand and hittable. You're not trying to strike anyone out.
-- **Hit:** the **next batter in the lineup** chugs until the fielding team touches the ball to the cooler (by throwing it at the cooler or carrying it there).
+- **Hit:** the **batter and the next batter in the lineup** both chug until the fielding team touches the ball to the cooler (by throwing it at the cooler or carrying it there).
 - **Outs:**
     - The fielding team gets the ball to the cooler.
     - 3 strikes.
