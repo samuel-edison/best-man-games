@@ -31,6 +31,7 @@ Points on each game page are the [standard point system](../rules/scoring.md) un
 | [Beer Ball](two-player/beer-ball.md) | Yes | 2024 |
 | [Beer Pong](two-player/beer-pong.md) | Yes | 2024, 2025 |
 | [Mouse Trap](two-player/mouse-trap.md) | No | Not yet (new for 2026) |
+| [Cornhole](two-player/cornhole.md) | No | Not yet (new for 2026) |
 
 ## 5-player teams (5 v 5)
 

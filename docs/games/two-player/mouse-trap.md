@@ -21,9 +21,13 @@ Like beer pong, but instead of shooting into a cup, your teammate traps the ball
 
 ## Rules
 
-- A player sends the ball across the table toward their teammate at the other end.
-- The teammate traps it by flipping their cup from the end of the table down over the ball.
+- **Teams alternate turns.**
+- On your turn, send the ball across the table to your teammate **any way you want**: roll, bounce, or throw.
+- **Elbows:** like beer pong, your elbows can't cross past the end of the table when you send the ball.
+- Your teammate traps the ball by flipping their cup from the end of the table down over it.
 - Each trap is 1 point.
+- **After a trap:** the other team goes next, from the end of the table the ball was just sent to.
+- **No interference.** You can't block, bump, or distract the other team.
 - First team to **3 points** wins.
 - **Tied records:** decided by the head-to-head game.
 
