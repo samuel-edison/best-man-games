@@ -26,6 +26,7 @@ Uses the shared 5v5 field and the same goals as [Handball](handball.md). See **[
 - **Call your own fouls** (see [General Rules](../../rules/index.md#game-day-flow)).
 - **Kickoff:** from the center dot to start each half and after every goal. The team that was just scored on kicks off.
 - Two 12-minute halves. Switch ends at halftime. Most goals wins.
+- If tied at the end, **next goal wins**.
 
 ## Supplies
 
