@@ -18,6 +18,8 @@ Points on each game page are the [standard point system](../rules/scoring.md) un
 | [Rap Battle](individual/rap-battle.md) | No | 2024, 2025 (last place game) |
 | [Highland Dance-Off](individual/highland-dance-off.md) | No | 2024 (last place game) |
 | [Resistance](individual/resistance.md) | No | 2024 |
+| [Home Run Derby](individual/home-run-derby.md) | No | Not yet (new for 2026) |
+| [Croquet](individual/croquet.md) | No | Not yet (new for 2026) |
 
 ## 2-player teams (5 teams of 2)
 
@@ -32,6 +34,7 @@ Points on each game page are the [standard point system](../rules/scoring.md) un
 | [Beer Pong](two-player/beer-pong.md) | Yes | 2024, 2025 |
 | [Mouse Trap](two-player/mouse-trap.md) | No | Not yet (new for 2026) |
 | [Cornhole](two-player/cornhole.md) | No | Not yet (new for 2026) |
+| [Chariot Race](two-player/chariot-race.md) | No | Not yet (new for 2026) |
 
 ## 5-player teams (5 v 5)
 
@@ -51,3 +54,7 @@ The outdoor 5v5 games share one chalked field. See **[Field Setup](five-player/f
 | [Beerball-Baseball](five-player/beerball-baseball.md) | Yes | 2025 |
 | [Table Baseball](five-player/table-baseball.md) | Yes | 2024 |
 | [Hanabi](five-player/hanabi.md) | No | 2024 |
+
+## Future ideas
+
+Games we might add later, without full rules yet, are on the **[Future Ideas](future-ideas.md)** page.
