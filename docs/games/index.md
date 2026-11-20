@@ -43,6 +43,7 @@ The outdoor 5v5 games share one chalked field. See **[Field Setup](five-player/f
 | [Ultimate Frisbee](five-player/ultimate-frisbee.md) | No | 2024, 2025 |
 | [Flag Football](five-player/flag-football.md) | No | 2025 |
 | [Handball](five-player/handball.md) | No | Not yet (new for 2026) |
+| [Soccer](five-player/soccer.md) | No | Not yet (new for 2026) |
 | [Tug of War](five-player/tug-of-war.md) | No | 2025 |
 | [Kilted Relay Race](five-player/kilted-relay-race.md) | Light | 2024 |
 | [Beerball-Baseball](five-player/beerball-baseball.md) | Yes | 2025 |

@@ -2,6 +2,8 @@
 
 Only the **bottom 5 players from the prior year's final rankings** receive a Power Play. Each gets **one**, and it can only be used one time.
 
+**Picking:** on Friday night, those 5 players pick from the list below in reverse order of last year's finish. Last place picks first, then 9th, 8th, 7th, and 6th. Each Power Play can only be taken once.
+
 If one of those players can't attend, their replacement takes their place in the rankings and gets the Power Play (see [replacements](scoring.md#replacements)).
 
 | # | Power Play | What it does | Limits |

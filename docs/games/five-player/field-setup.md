@@ -111,6 +111,7 @@ Running a string line between stakes makes long chalk lines much straighter.
 | [Ultimate Frisbee](ultimate-frisbee.md) | Whole field. Catch it in the end zone to score. |
 | [Flag Football](flag-football.md) | Whole field. Start at your own goal line (the 5-yard line), first down at midfield (the 25-yard line), score in the end zone. |
 | [Handball](handball.md) | Whole field. End zones are the goal areas, goals on the end lines, penalty dots, throw-off from the center dot. |
+| [Soccer](soccer.md) | Whole field. Same goals as Handball, kickoff from the center dot. End zones and penalty dots aren't used. |
 | [Kickball](kickball.md) | One corner of the field. See [Kickball](#kickball) below. |
 | [Dodgeball](dodgeball.md) | Cone box over midfield. See [Midfield games](#midfield-games) below. |
 | [Tug of War](tug-of-war.md) | Rope centered on midfield. See [Midfield games](#midfield-games) below. |

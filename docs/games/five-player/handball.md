@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Format** | 5-player teams (5 v 5): 4 court players + 1 goalkeeper per team |
-| **Rounds** | 1 game, two 10-minute halves |
+| **Rounds** | 1 game, two 12-minute halves |
 | **Teams** | [Picked Friday night](../../rules/scoring.md#picking-teams) from last year's rankings |
 | **Points** | Standard 5v5: 9 per winner · IDP Max: 10 (with bonus) |
 | **Time** | About 30 minutes |
@@ -61,7 +61,7 @@ Uses the shared 5v5 field. See **[Field Setup](field-setup.md)** for the diagram
 
 ### Winning
 
-- Two 10-minute halves. Switch ends at halftime.
+- Two 12-minute halves. Switch ends at halftime.
 - Most goals wins.
 - If tied at the end, **next goal wins**.
 
@@ -86,4 +86,4 @@ Standard team handball is 7 v 7 on a 40 by 20 meter court, with a curved 6-meter
 - The goal area is the straight 5-yard end zone instead of the curved 6-meter line.
 - No dribbling.
 - No 9-meter free-throw line. Free throws are taken from the spot of the foul.
-- Shorter halves (10 minutes instead of 30).
+- Shorter halves (12 minutes instead of 30).

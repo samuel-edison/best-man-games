@@ -12,6 +12,7 @@ The usual flow of the weekend. Exact times and the game lineup are on each [year
     - The **top two players** from last year compete to decide who gets **first pick** in the 5v5 snake draft.
     - Run the 5v5 draft and the 2v2 partner picks.
     - See [Picking teams](scoring.md#picking-teams) for how the draft works.
+- **Pick Power Plays:** last year's bottom 5 players each pick one [Power Play](power-plays.md) from the list. Last place picks first, then 9th, 8th, 7th, and 6th.
 - **Movie night** to close out the evening.
 
 ## Saturday: game day

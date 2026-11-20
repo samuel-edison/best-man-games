@@ -83,6 +83,7 @@ nav:
           - Table Baseball: games/five-player/table-baseball.md
           - Hanabi: games/five-player/hanabi.md
           - Handball: games/five-player/handball.md
+          - Soccer: games/five-player/soccer.md
   - By Year:
       - years/index.md
       - "2026": years/2026.md
